@@ -2,9 +2,9 @@
   "name": "twitter-text",
   "description": "official twitter text linkification",
   "version": "1.14.3",
-  "main": "./twitter-text.js",
+  "main": "./js/twitter-text.js",
   "files": [
-    "twitter-text.js"
+    "js/twitter-text.js"
   ],
   "homepage": "https://github.com/twitter/twitter-text-js",
   "author": "Twitter Inc.",
